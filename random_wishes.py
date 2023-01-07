@@ -20,6 +20,6 @@ def random_wish (name):
     print(f'Happy New Year to you, {name}!')
     print(wish_list[wish_num])
     
-
+    
 name = input('Please, enter Your name: ')
 random_wish(name)
